@@ -66,3 +66,4 @@ if st.button('PRED'):
   elif ( op == -1):
     result = "NEGATIVE 😔"
   st.title(result)
+  
